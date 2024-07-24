@@ -33,7 +33,7 @@
 	<p>Siga-nos para ficar atualizado com nossos últimos projetos, tutoriais e insights da indústria.</p>
 	<h2>Nossa Equipe</h2>
 	<ul>
-		<li><strong>Gerente de Dados: </strong><a href="https://github.com/">Marcos Cunha</a></li>
+		<li><strong>Gerente de Dados: </strong><a href="https://github.com/marcosascunha">Marcos Cunha</a></li>
 		<li><strong>Supervisor: </strong><a href="https://github.com/wellnrt">Wellington Teixeira</a></li>
 		<li><strong>Analista de Dados: </strong><a href="https://github.com/lagodukn">Thiago Lagares</a></li>
 		<li><strong>Analista de Dados: </strong><a href="https://github.com/">Rafael Melo</a></li>
