@@ -31,6 +31,13 @@
 	</ul>
 	<h2>Fique Atualizado</h2>
 	<p>Siga-nos para ficar atualizado com nossos últimos projetos, tutoriais e insights da indústria.</p>
+	<h2>Nossa Equipe</h2>
+	<ul>
+		<li><strong>Supervisor: </strong><a href="https://github.com/wellnrt">Wellington Teixeira</a></li>
+		<li><strong>Analista de Dados: </strong><a href="https://github.com/lagodukn">Thiago Lagares</a></li>
+		<li><strong>Assistente de Dados: </strong><a href="https://github.com/gustavoreis-14">Gustavo Reis</a></li>
+		<li><strong>Assistente de Dados: </strong><a href="https://github.com/talitamsreis">Talita Reis</a></li>
+	</ul>
 	<h2>Licença</h2>
 	<p>Nossos projetos de código aberto são licenciados sob a Licença MIT.</p>
 </body>
